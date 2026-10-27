@@ -1,0 +1,24 @@
+"dataset_id","dataset_name","Drug.name","min_P","min_FDR","best_rank","n_passing_clusters","support","supported","plot_order","display_rank","dataset_label","display_drug","figure_component","recurrence_category","n_drugs"
+"D011","POAG_blood","belinostat",2.75897684809401e-07,0.000163331429407165,1,3,"FDR significant",TRUE,1,1,"D011 POAG blood","Belinostat (HDAC inhibitor)","lollipop",,
+"D011","POAG_blood","pioglitazone",0.000104004733331864,0.0615708021324633,4,0,"Nominal support",TRUE,2,2,"D011 POAG blood","Pioglitazone","lollipop",,
+"D011","POAG_blood","hexachlorophene",0.000386099010042138,0.114285306972473,5,0,"Nominal support",TRUE,3,3,"D011 POAG blood","Hexachlorophene","lollipop",,
+"D011","POAG_blood","aprepitant",0.000770416024653313,0.228043143297381,6,0,"Nominal support",TRUE,4,4,"D011 POAG blood","Aprepitant","lollipop",,
+"D011","POAG_blood","diethylstilbestrol",0.00154083204930662,0.304057524396507,7,0,"Nominal support",TRUE,5,5,"D011 POAG blood","Diethylstilbestrol","lollipop",,
+"D011","POAG_blood","tropisetron",0.00231124807395993,0.342064714946071,8,0,"Nominal support",TRUE,6,6,"D011 POAG blood","Tropisetron","lollipop",,
+"D011","POAG_blood","alverine",0.00539291217257318,0.354733778462592,9,0,"Nominal support",TRUE,7,7,"D011 POAG blood","Alverine","lollipop",,
+"D011","POAG_blood","benzonatate",0.000770416024653313,0.354733778462592,9,0,"Nominal support",TRUE,8,7,"D011 POAG blood","Benzonatate","lollipop",,
+"D011","POAG_blood","chloroxine",0.00154083204930662,0.354733778462592,9,0,"Nominal support",TRUE,9,7,"D011 POAG blood","Chloroxine","lollipop",,
+"D011","POAG_blood","dobutamine",0.00385208012326656,0.354733778462592,9,0,"Nominal support",TRUE,10,7,"D011 POAG blood","Dobutamine","lollipop",,
+"D023","Maciej_2022_POAG_organoid","tranylcypromine",4.59395765389781e-05,0.027196229311075,1,1,"FDR significant",TRUE,1,1,"D023 POAG organoid","Tranylcypromine (LSD1 inhibitor)","lollipop",,
+"D023","Maciej_2022_POAG_organoid","everolimus",0.000249424665149434,0.147659401768465,2,0,"Nominal support",TRUE,2,2,"D023 POAG organoid","Everolimus","lollipop",,
+"D023","Maciej_2022_POAG_organoid","erlotinib",0.000770416024653313,0.228043143297381,3,0,"Nominal support",TRUE,3,3,"D023 POAG organoid","Erlotinib","lollipop",,
+"D023","Maciej_2022_POAG_organoid","verteporfin",0.000428148759369438,0.253464065546707,4,0,"Nominal support",TRUE,4,4,"D023 POAG organoid","Verteporfin","lollipop",,
+"D023","Maciej_2022_POAG_organoid","thalidomide",0.000500784715987988,0.296464551864889,5,0,"Nominal support",TRUE,5,5,"D023 POAG organoid","Thalidomide","lollipop",,
+"D023","Maciej_2022_POAG_organoid","amiodarone",0.0027177080317966,0.321776630964718,6,0,"Nominal support",TRUE,6,6,"D023 POAG organoid","Amiodarone","lollipop",,
+"D023","Maciej_2022_POAG_organoid","cabozantinib",0.00202555976955953,0.321776630964718,6,0,"Nominal support",TRUE,7,6,"D023 POAG organoid","Cabozantinib","lollipop",,
+"D023","Maciej_2022_POAG_organoid","diethyltoluamide",0.00231124807395993,0.321776630964718,6,0,"Nominal support",TRUE,8,6,"D023 POAG organoid","Diethyltoluamide","lollipop",,
+"D023","Maciej_2022_POAG_organoid","bisoprolol",0.00539291217257318,0.356036578350576,9,0,"Nominal support",TRUE,9,9,"D023 POAG organoid","Bisoprolol","lollipop",,
+"D023","Maciej_2022_POAG_organoid","calcitriol",0.00385208012326656,0.356036578350576,9,0,"Nominal support",TRUE,10,9,"D023 POAG organoid","Calcitriol","lollipop",,
+,,,,,,,,,,,,,"recurrence_bar","D011 only",55
+,,,,,,,,,,,,,"recurrence_bar","D023 only",35
+,,,,,,,,,,,,,"recurrence_bar","Shared",8
